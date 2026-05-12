@@ -7,7 +7,8 @@
 <img src="img/2.png"></img>
 <img src="img/3.png"></img>
 <p>
-```
+
+```Kotlin
 package com.example.exz_06ip235
 
 import android.os.Bundle
