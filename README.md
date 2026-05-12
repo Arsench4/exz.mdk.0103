@@ -1,9 +1,12 @@
-<p1>экзамен по мдк01.03</p1>
-<p2>выполнил студент группы ИП-235 Гарсаян Арсен</p2>
+<h1>экзамен по мдк01.03</h1>
+<p>
+<h2>выполнил студент группы ИП-235 Гарсаян Арсен</h2>
+<p>
 <img src="img/0.png"></img>
 <img src="img/1.png"></img>
 <img src="img/2.png"></img>
 <img src="img/3.png"></img>
+<p>
 ```Kotlin
 package com.example.exz_06ip235
 
